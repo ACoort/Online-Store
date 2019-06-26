@@ -1,0 +1,212 @@
+[
+	{
+		"ProductNumber": 1,
+		"Price": 88,
+		"ProductName": "Keurig K50 Hot Brewing System, Black",
+		"ProductQuantity": 24,
+		"ProductDescription": "Brews coffee, tea, hot cocoa and specialty beverages"
+	},
+	{
+		"ProductNumber": 2,
+		"Price": 82.31,
+		"ProductName": "Maps of Meaning: The Architecture of Belief",
+		"ProductQuantity": 29,
+		"ProductDescription": ""
+	},
+	{
+		"ProductNumber": 3,
+		"Price": 49.99,
+		"ProductName": "Echo Dot (2nd Generation) — Black",
+		"ProductQuantity": 48,
+		"ProductDescription": "Always getting smarter and adding new features, plus thousands of skills like Sportsnet, CBC, Air Canada, and more"
+	},
+	{
+		"ProductNumber": 4,
+		"Price": 99.99,
+		"ProductName": "AncestryDNA: Genetic Testing - DNA Test",
+		"ProductQuantity": 67,
+		"ProductDescription": "Discover your ethnicity"
+	},
+	{
+		"ProductNumber": 5,
+		"Price": 39.98,
+		"ProductName": "LifeStraw Go Water Bottle 2-Stage with Integrated 1,000 L Filter and Activated Carbon, Green",
+		"ProductQuantity": 79,
+		"ProductDescription": "Reusable LifeStraw go water bottle that filters water as you drink; great for travel, backpacking, camping or emergencies"
+	},
+	{
+		"ProductNumber": 6,
+		"Price": 33.99,
+		"ProductName": "Anker PowerCore 10000",
+		"ProductQuantity": 56,
+		"ProductDescription": "The Anker Advantage: Join the 10 million+ powered by our leading technology."
+	},
+	{
+		"ProductNumber": 7,
+		"Price": 7.69,
+		"ProductName": "AmazonBasics High-Speed HDMI Cable - 10 Feet",
+		"ProductQuantity": 28,
+		"ProductDescription": "HDMI A Male to A Male Cable: Supports Ethernet, 3D, 4K video and Audio Return Channel (ARC)"
+	},
+	{
+		"ProductNumber": 8,
+		"Price": 99.99,
+		"ProductName": "Corsair Vengeance LPX 8GB DDR4 DRAM 2400MHz, Black",
+		"ProductQuantity": 46,
+		"ProductDescription": "Each Vengeance LPX module is built with a pure aluminum heat spreader for faster heat dissipation and cooler operation; and the eight-layer PCB helps manage heat and provides superior overclocking headroom."
+	},
+	{
+		"ProductNumber": 9,
+		"Price": 89.99,
+		"ProductName": "Anker Roav Dash Cam C1, Dashboard Camera Recorder",
+		"ProductQuantity": 49,
+		"ProductDescription": "CRYSTAL-CLEAR RECORDINGS: Advanced Sony Exmor sensor, wide-angle lense, and Nighthawk Vision technology capture 4 lanes of traffic in Full HD 1080P — even at night."
+	},
+	{
+		"ProductNumber": 10,
+		"Price": 89.99,
+		"ProductName": "AmazonBasics Mid-Back Mesh Chair",
+		"ProductQuantity": 72,
+		"ProductDescription": "Ergonomic office chair with contoured mesh back for breathability"
+	},
+	{
+		"ProductNumber": 11,
+		"Price": 15.79,
+		"ProductName": "AUKEY Sport Bluetooth Sweatproof Earphones with Built-in Mic",
+		"ProductQuantity": 62,
+		"ProductDescription": "Balanced, clean sound in a lightweight, comfortable fit for active or stationary wireless audio consumption"
+	},
+	{
+		"ProductNumber": 12,
+		"Price": 399.99,
+		"ProductName": "Nintendo Switch Console - Neon Edition",
+		"ProductQuantity": 47,
+		"ProductDescription": "Whether you're kicking back at home in front of the TV or out with friends, Nintendo Switch gives you the full single player or multiplayer gaming experience."
+	},
+	{
+		"ProductNumber": 13,
+		"Price": 9.6,
+		"ProductName": "Classic Jenga",
+		"ProductQuantity": 52,
+		"ProductDescription": "Pull out a bock without crashing the stack to win at Jenga"
+	},
+	{
+		"ProductNumber": 14,
+		"Price": 478.99,
+		"ProductName": "Bowflex SelectTech 552 Adjustable Dumbbells (Pair)",
+		"ProductQuantity": 81,
+		"ProductDescription": "Each dumbbell adjusts from 5 to 52.5 pounds; adjusts in 2.5-pound increments up to the first 25 pounds"
+	},
+	{
+		"ProductNumber": 15,
+		"Price": 9.52,
+		"ProductName": "AmazonBasics AAA Performance Alkaline Batteries (36-Pack)",
+		"ProductQuantity": 79,
+		"ProductDescription": "Pack of 36 1.5V AAA Alkaline Batteries"
+	},
+	{
+		"ProductNumber": 16,
+		"Price": 69.99,
+		"ProductName": "Weider Incline Weight Bench",
+		"ProductQuantity": 13,
+		"ProductDescription": "Ideal for dumbbell exercises and other weight lifting workouts, this bench adjusts to deliver a personalized workout and proper exercise form with a 90° seat adjustment."
+	},
+	{
+		"ProductNumber": 17,
+		"Price": 299.99,
+		"ProductName": "KitchenAid KL26M1XER Professional 6 quart Bowl-Lift Stand Mixer",
+		"ProductQuantity": 34,
+		"ProductDescription": "The power hub turns your stand mixer into a culinary center, with more than 15 optional attachments available"
+	},
+	{
+		"ProductNumber": 18,
+		"Price": 19.99,
+		"ProductName": "Milk Frother Portable Stainless Steel Handheld Double Spring Whisk Head Powerful Electric Handheld Wand",
+		"ProductQuantity": 59,
+		"ProductDescription": "UPGRADED DESIGN"
+	},
+	{
+		"ProductNumber": 19,
+		"Price": 35,
+		"ProductName": "New Metro Design KA-6LR Beater Blade for KitchenAid 6-Quart Bowl",
+		"ProductQuantity": 79,
+		"ProductDescription": ""
+	},
+	{
+		"ProductNumber": 20,
+		"Price": 72.99,
+		"ProductName": "National Geographic Hobby Rock Tumbler Kit",
+		"ProductQuantity": 73,
+		"ProductDescription": "100% SATISFACTION GUARANTEED"
+	},
+	{
+		"ProductNumber": 21,
+		"Price": 20.99,
+		"ProductName": "Etekcity WiFi Smart Plug Outlet with Energy Monitoring",
+		"ProductQuantity": 49,
+		"ProductDescription": "Work with Alexa: Fully integrated with Amazon Alexa Echo/Dot. Allowing you to easily control your entire home from any Android or iOS device"
+	},
+	{
+		"ProductNumber": 22,
+		"Price": 47.99,
+		"ProductName": "Toguard Wireless Security Camera",
+		"ProductQuantity": 65,
+		"ProductDescription": "Cloud Storage & Memory Card Recording"
+	},
+	{
+		"ProductNumber": 23,
+		"Price": 169.99,
+		"ProductName": "Safety 1st Grow and Go 3-in-1 Car Seat, Roan l",
+		"ProductQuantity": 12,
+		"ProductDescription": "Removable pillows allow the seat to grow with your child and Rear-facing installation provides up to seven more-Inch for the front seat"
+	},
+	{
+		"ProductNumber": 24,
+		"Price": 15.99,
+		"ProductName": "DEWALT DWARA100 Right Angle Adapter Attachment",
+		"ProductQuantity": 18,
+		"ProductDescription": "Better accessibility to drive screws and drill holes in tight spaces"
+	},
+	{
+		"ProductNumber": 25,
+		"Price": 379.99,
+		"ProductName": "Snow Joe ION18SB-HYB 40V 4.0 Ah Hybrid Cordless or Electric Cordless Snow Blower, 18",
+		"ProductQuantity": 2,
+		"ProductDescription": "Ideal for quick snow pickups on mid-sized driveways and walkways"
+	},
+	{
+		"ProductNumber": 26,
+		"Price": 99.99,
+		"ProductName": "Miracle-Gro AeroGarden Classic 6 with Gourmet Herb Seed Pod Kit",
+		"ProductQuantity": 95,
+		"ProductDescription": "Garden year-round"
+	},
+	{
+		"ProductNumber": 27,
+		"Price": 32.99,
+		"ProductName": "Dremel Nail Grooming Kit",
+		"ProductQuantity": 38,
+		"ProductDescription": "Rotary tool provides a safe, effective, less stressful alternative to clipping"
+	},
+	{
+		"ProductNumber": 28,
+		"Price": 52.99,
+		"ProductName": "Netgear 16-Port Gigabit Ethernet Desktop Switch (GS316)",
+		"ProductQuantity": 94,
+		"ProductDescription": "16 auto-sensing Gigabit Ethernet ports"
+	},
+	{
+		"ProductNumber": 29,
+		"Price": 99.99,
+		"ProductName": "Kindle Paperwhite",
+		"ProductQuantity": 54,
+		"ProductDescription": "Higher resolution display (300 ppi) - with twice as many pixels"
+	},
+	{
+		"ProductNumber": 30,
+		"Price": 199.95,
+		"ProductName": "Fitbit Blaze Smart Fitness Watch, Black, Silver, Large",
+		"ProductQuantity": 73,
+		"ProductDescription": "Note that notifications are not available on Windows 10 devices"
+	}
+]
